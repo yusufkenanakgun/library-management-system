@@ -1,4 +1,8 @@
-# ornek_proje
+# library-management-system
+
+This is the frontend of the mobile application I developed for the online library management system.
+
+## ornek_proje
 
 A new Flutter project.
 
