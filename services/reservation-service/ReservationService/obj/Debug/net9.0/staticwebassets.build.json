@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XUVlCMyOkbRWTgSFfI7rYIxSO4u75s/7aykxYtsPhpQ=",
+  "Source": "ReservationService",
+  "BasePath": "_content/ReservationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

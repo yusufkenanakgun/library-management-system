@@ -1,0 +1,674 @@
+[
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Author 1",
+    "description": "'The Brothers Karamazov' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book1.jpg"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Author 2",
+    "description": "'Madame Bovary' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book2.jpg"
+  },
+  {
+    "title": "Ulysses",
+    "author": "Author 3",
+    "description": "'Ulysses' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book3.jpg"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Author 4",
+    "description": "A cornerstone of ancient literature depicting heroism, fate, and the divine.",
+    "isAvailable": true,
+    "image": "assets/images/book4.jpg"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Author 5",
+    "description": "A haunting tale of guilt, redemption, and the complexities of justice.",
+    "isAvailable": true,
+    "image": "assets/images/book5.jpg"
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Author 6",
+    "description": "'The Divine Comedy' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book6.jpg"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Author 7",
+    "description": "'Great Expectations' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book7.jpg"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Author 8",
+    "description": "A cornerstone of ancient literature depicting heroism, fate, and the divine.",
+    "isAvailable": true,
+    "image": "assets/images/book8.jpg"
+  },
+  {
+    "title": "The Stranger",
+    "author": "Author 9",
+    "description": "'The Stranger' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book9.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Author 10",
+    "description": "'Wuthering Heights' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book10.jpg"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Author 11",
+    "description": "'To the Lighthouse' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book11.jpg"
+  },
+  {
+    "title": "Catch-22",
+    "author": "Author 12",
+    "description": "'Catch-22' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book12.jpg"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Author 13",
+    "description": "'One Hundred Years of Solitude' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book13.jpg"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Author 14",
+    "description": "'Anna Karenina' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book14.jpg"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Author 15",
+    "description": "A sweeping epic capturing the turmoil and humanity amidst armed conflict.",
+    "isAvailable": false,
+    "image": "assets/images/book15.jpg"
+  },
+  {
+    "title": "The Trial",
+    "author": "Author 16",
+    "description": "'The Trial' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book16.jpg"
+  },
+  {
+    "title": "Lolita",
+    "author": "Author 17",
+    "description": "'Lolita' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book17.jpg"
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "Author 18",
+    "description": "'The Sound and the Fury' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book18.jpg"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Author 19",
+    "description": "'The Sun Also Rises' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book19.jpg"
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Author 20",
+    "description": "A moody and atmospheric narrative set against a backdrop of mystery and despair.",
+    "isAvailable": true,
+    "image": "assets/images/book20.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Author 21",
+    "description": "A chilling vision of a dystopian society ruled by surveillance and control.",
+    "isAvailable": false,
+    "image": "assets/images/book21.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "Author 22",
+    "description": "'The Catcher in the Rye' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book22.jpg"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Author 23",
+    "description": "A comedic yet tragic story of delusion, nobility, and the power of dreams.",
+    "isAvailable": false,
+    "image": "assets/images/book23.jpg"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "Author 24",
+    "description": "'The Grapes of Wrath' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book24.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Author 25",
+    "description": "'Jane Eyre' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book25.jpg"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Author 26",
+    "description": "'Frankenstein' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book26.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Author 27",
+    "description": "'Moby Dick' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book27.jpg"
+  },
+  {
+    "title": "Dracula",
+    "author": "Author 28",
+    "description": "'Dracula' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book28.jpg"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Author 29",
+    "description": "'A Tale of Two Cities' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book29.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "Author 30",
+    "description": "A chilling vision of a dystopian society ruled by surveillance and control.",
+    "isAvailable": false,
+    "image": "assets/images/book30.jpg"
+  },
+  {
+    "title": "Les Mis\u00e9rables",
+    "author": "Author 31",
+    "description": "'Les Mis\u00e9rables' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book31.jpg"
+  },
+  {
+    "title": "Fathers and Sons",
+    "author": "Author 32",
+    "description": "'Fathers and Sons' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book32.jpg"
+  },
+  {
+    "title": "Middlemarch",
+    "author": "Author 33",
+    "description": "'Middlemarch' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book33.jpg"
+  },
+  {
+    "title": "Sons and Lovers",
+    "author": "Author 34",
+    "description": "A passionate exploration of relationships, intimacy, and emotional depth.",
+    "isAvailable": true,
+    "image": "assets/images/book34.jpg"
+  },
+  {
+    "title": "The Red and the Black",
+    "author": "Author 35",
+    "description": "'The Red and the Black' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book35.jpg"
+  },
+  {
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "Author 36",
+    "description": "'A Portrait of the Artist as a Young Man' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book36.jpg"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Author 37",
+    "description": "'The Count of Monte Cristo' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book37.jpg"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Author 38",
+    "description": "An evocative maritime journey into survival, solitude, and human endurance.",
+    "isAvailable": false,
+    "image": "assets/images/book38.jpg"
+  },
+  {
+    "title": "Rebecca",
+    "author": "Author 39",
+    "description": "'Rebecca' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book39.jpg"
+  },
+  {
+    "title": "The Magic Mountain",
+    "author": "Author 40",
+    "description": "'The Magic Mountain' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book40.jpg"
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Author 41",
+    "description": "'The Master and Margarita' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book41.jpg"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Author 42",
+    "description": "A philosophical dive into vanity, morality, and the pursuit of eternal youth.",
+    "isAvailable": true,
+    "image": "assets/images/book42.jpg"
+  },
+  {
+    "title": "Nausea",
+    "author": "Author 43",
+    "description": "'Nausea' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book43.jpg"
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Author 44",
+    "description": "'Things Fall Apart' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book44.jpg"
+  },
+  {
+    "title": "Beloved",
+    "author": "Author 45",
+    "description": "'Beloved' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book45.jpg"
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Author 46",
+    "description": "'Invisible Man' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book46.jpg"
+  },
+  {
+    "title": "Native Son",
+    "author": "Author 47",
+    "description": "'Native Son' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book47.jpg"
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "author": "Author 48",
+    "description": "'Their Eyes Were Watching God' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book48.jpg"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Author 49",
+    "description": "'The Bell Jar' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book49.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Author 50",
+    "description": "'The Handmaid's Tale' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book50.jpg"
+  },
+  {
+    "title": "Wide Sargasso Sea",
+    "author": "Author 51",
+    "description": "An evocative maritime journey into survival, solitude, and human endurance.",
+    "isAvailable": false,
+    "image": "assets/images/book51.jpg"
+  },
+  {
+    "title": "Orlando",
+    "author": "Author 52",
+    "description": "'Orlando' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book52.jpg"
+  },
+  {
+    "title": "The Road",
+    "author": "Author 53",
+    "description": "'The Road' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book53.jpg"
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Author 54",
+    "description": "'Never Let Me Go' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book54.jpg"
+  },
+  {
+    "title": "The Blind Assassin",
+    "author": "Author 55",
+    "description": "'The Blind Assassin' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book55.jpg"
+  },
+  {
+    "title": "White Teeth",
+    "author": "Author 56",
+    "description": "'White Teeth' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book56.jpg"
+  },
+  {
+    "title": "Midnight's Children",
+    "author": "Author 57",
+    "description": "'Midnight's Children' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book57.jpg"
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Author 58",
+    "description": "'The Remains of the Day' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book58.jpg"
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Author 59",
+    "description": "'Life of Pi' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book59.jpg"
+  },
+  {
+    "title": "Disgrace",
+    "author": "Author 60",
+    "description": "'Disgrace' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book60.jpg"
+  },
+  {
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Author 61",
+    "description": "'The Brief Wondrous Life of Oscar Wao' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book61.jpg"
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Author 62",
+    "description": "'The Goldfinch' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book62.jpg"
+  },
+  {
+    "title": "Atonement",
+    "author": "Author 63",
+    "description": "'Atonement' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book63.jpg"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Author 64",
+    "description": "'The Kite Runner' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book64.jpg"
+  },
+  {
+    "title": "The Namesake",
+    "author": "Author 65",
+    "description": "'The Namesake' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book65.jpg"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Author 66",
+    "description": "'The Secret History' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book66.jpg"
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Author 67",
+    "description": "'The God of Small Things' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book67.jpg"
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Author 68",
+    "description": "'Norwegian Wood' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book68.jpg"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Author 69",
+    "description": "'Kafka on the Shore' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book69.jpg"
+  },
+  {
+    "title": "1Q84",
+    "author": "Author 70",
+    "description": "'1Q84' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book70.jpg"
+  },
+  {
+    "title": "Colorless Tsukuru Tazaki",
+    "author": "Author 71",
+    "description": "'Colorless Tsukuru Tazaki' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book71.jpg"
+  },
+  {
+    "title": "Pale Fire",
+    "author": "Author 72",
+    "description": "'Pale Fire' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book72.jpg"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Author 73",
+    "description": "'Slaughterhouse-Five' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book73.jpg"
+  },
+  {
+    "title": "Cat's Cradle",
+    "author": "Author 74",
+    "description": "'Cat's Cradle' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book74.jpg"
+  },
+  {
+    "title": "Breakfast of Champions",
+    "author": "Author 75",
+    "description": "'Breakfast of Champions' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book75.jpg"
+  },
+  {
+    "title": "Player Piano",
+    "author": "Author 76",
+    "description": "'Player Piano' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book76.jpg"
+  },
+  {
+    "title": "Cloud Atlas",
+    "author": "Author 77",
+    "description": "'Cloud Atlas' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book77.jpg"
+  },
+  {
+    "title": "The Bone Clocks",
+    "author": "Author 78",
+    "description": "'The Bone Clocks' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book78.jpg"
+  },
+  {
+    "title": "The Thousand Autumns of Jacob de Zoet",
+    "author": "Author 79",
+    "description": "'The Thousand Autumns of Jacob de Zoet' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book79.jpg"
+  },
+  {
+    "title": "Number9Dream",
+    "author": "Author 80",
+    "description": "'Number9Dream' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book80.jpg"
+  },
+  {
+    "title": "Black Swan Green",
+    "author": "Author 81",
+    "description": "'Black Swan Green' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book81.jpg"
+  },
+  {
+    "title": "The Luminaries",
+    "author": "Author 82",
+    "description": "'The Luminaries' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book82.jpg"
+  },
+  {
+    "title": "Lincoln in the Bardo",
+    "author": "Author 83",
+    "description": "'Lincoln in the Bardo' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book83.jpg"
+  },
+  {
+    "title": "Shantaram",
+    "author": "Author 84",
+    "description": "'Shantaram' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book84.jpg"
+  },
+  {
+    "title": "The White Tiger",
+    "author": "Author 85",
+    "description": "'The White Tiger' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book85.jpg"
+  },
+  {
+    "title": "The Palace of Illusions",
+    "author": "Author 86",
+    "description": "'The Palace of Illusions' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book86.jpg"
+  },
+  {
+    "title": "The Inheritance of Loss",
+    "author": "Author 87",
+    "description": "'The Inheritance of Loss' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book87.jpg"
+  },
+  {
+    "title": "Sea of Poppies",
+    "author": "Author 88",
+    "description": "An evocative maritime journey into survival, solitude, and human endurance.",
+    "isAvailable": false,
+    "image": "assets/images/book88.jpg"
+  },
+  {
+    "title": "The Lowland",
+    "author": "Author 89",
+    "description": "'The Lowland' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book89.jpg"
+  },
+  {
+    "title": "The Ministry of Utmost Happiness",
+    "author": "Author 90",
+    "description": "'The Ministry of Utmost Happiness' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book90.jpg"
+  },
+  {
+    "title": "An Atlas of Impossible Longing",
+    "author": "Author 91",
+    "description": "'An Atlas of Impossible Longing' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book91.jpg"
+  },
+  {
+    "title": "The Hungry Tide",
+    "author": "Author 92",
+    "description": "'The Hungry Tide' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book92.jpg"
+  },
+  {
+    "title": "The Shadow Lines",
+    "author": "Author 93",
+    "description": "'The Shadow Lines' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book93.jpg"
+  },
+  {
+    "title": "A Fine Balance",
+    "author": "Author 94",
+    "description": "'A Fine Balance' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book94.jpg"
+  },
+  {
+    "title": "Family Matters",
+    "author": "Author 95",
+    "description": "'Family Matters' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": true,
+    "image": "assets/images/book95.jpg"
+  },
+  {
+    "title": "Such a Long Journey",
+    "author": "Author 96",
+    "description": "'Such a Long Journey' is a profound literary work that captivates readers with its unique narrative voice and timeless themes.",
+    "isAvailable": false,
+    "image": "assets/images/book96.jpg"
+  }
+]

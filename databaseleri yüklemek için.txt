@@ -1,0 +1,5 @@
+docker exec -i postgres-favorite psql -U postgres yuread_favorite_db < favorite_db_dump.sql
+docker exec -i postgres-auth psql -U postgres yuread_auth_db < auth_db_dump.sql
+docker exec -i postgres-books psql -U postgres yuread_book_db < book_db_dump.sql
+docker exec -i postgres-borrow psql -U postgres yuread_borrow_db < borrow_db_dump.sql
+docker exec -i postgres-reservation psql -U postgres yuread_reservation_db < reservation_db_dump.sql

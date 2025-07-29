@@ -1,0 +1,181 @@
+version: '3.8'
+
+services:
+  postgres-auth:
+    image: postgres
+    container_name: postgres-auth
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: yuread_auth_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-auth-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  postgres-books:
+    image: postgres
+    container_name: postgres-books
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: yuread_books_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres-books-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  postgres-borrow:
+    image: postgres
+    container_name: postgres-borrow
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: yuread_borrow_db
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres-borrow-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  postgres-favorite:
+    image: postgres
+    container_name: postgres-favorite
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: yuread_favorite_db
+    ports:
+      - "5435:5432"
+    volumes:
+      - postgres-favorite-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  postgres-reservation:
+    image: postgres
+    container_name: postgres-reservation
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: yuread_reservation_db
+    ports:
+      - "5436:5432"
+    volumes:
+      - postgres-reservation-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  postgres-notification:
+    image: postgres
+    container_name: postgres-notification
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: yuread_notification_db
+    ports:
+      - "5437:5432"
+    volumes:
+      - postgres-notification-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  auth-service:
+    build:
+      context: ./services/auth-service/AuthService
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - postgres-auth
+
+  book-service:
+    build:
+      context: ./services/book-service/BookService
+    ports:
+      - "8081:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - postgres-books
+
+  borrow-service:
+    build:
+      context: ./services/borrow-service/BorrowService
+    ports:
+      - "8082:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - postgres-borrow
+
+  favorite-service:
+    build:
+      context: ./services/favorite-service/FavoriteService
+    ports:
+      - "8083:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - postgres-favorite
+
+  reservation-service:
+    build:
+      context: ./services/reservation-service/ReservationService
+    ports:
+      - "8084:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - postgres-reservation
+
+  recommendation-service:
+    build:
+      context: ./services/recommendation-service/RecommendationService
+    ports:
+      - "8085:8085"
+    networks:
+      - app-network
+    depends_on:
+      - favorite-service
+      - book-service
+
+  notification-service:
+    build:
+      context: ./services/notification-service/NotificationService
+    ports:
+      - "8086:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - postgres-notification
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  postgres-auth-data:
+  postgres-books-data:
+  postgres-borrow-data:
+  postgres-favorite-data:
+  postgres-reservation-data:
+  postgres-notification-data:

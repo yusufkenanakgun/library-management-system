@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "n2XOYTxPIXckCPBvVDaenLUq8Tgx2jYsGPWb+8viDN0=",
+  "Source": "BorrowService",
+  "BasePath": "_content/BorrowService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
