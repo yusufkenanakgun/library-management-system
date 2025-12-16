@@ -1,6 +1,23 @@
 # 📚 YURead - AI-Powered Library Management System
 
+<div align="center">
+
+![YURead Logo](https://via.placeholder.com/800x200/0066CC/FFFFFF?text=YURead+-+Library+Management+Platform)
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.7.2-02569B?logo=flutter)](https://flutter.dev)
+[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)](https://www.docker.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 **Modern • AI-Powered • Microservices Architecture**
+
+[Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Demo](#-demo)
+
+</div>
+
+---
 
 ## 🎯 Overview
 
