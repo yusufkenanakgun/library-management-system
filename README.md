@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![YURead Logo](docs/screenshots/yuread-banner.png)
+![YURead Logo](docs/screenshots/logo.png)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.7.2-02569B?logo=flutter)](https://flutter.dev)
 [![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
@@ -645,5 +645,6 @@ For questions, issues, or feature requests:
 [Report Bug](https://github.com/yusufkenanakgun/YURead/issues) · [Request Feature](https://github.com/yusufkenanakgun/YURead/issues)
 
 </div>
+
 
 
