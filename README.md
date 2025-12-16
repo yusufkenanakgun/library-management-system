@@ -565,23 +565,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👥 Team
-
-| Role | Name | GitHub |
-|------|------|--------|
-| **CSE Students** | Kaya Berk Karakelle | [@kayaberk](https://github.com/kayaberk) |
-| | Yusuf Kenan Akgün | [@yusufkenanakgun](https://github.com/yusufkenanakgun) |
-| | Sipan Açar | [@sipanacar](https://github.com/sipanacar) |
-| | Osman Furkan Bayram | [@osmanfurkanbayram](https://github.com/osmanfurkanbayram) |
-| | Ece Çarpıcı | [@ececarpici](https://github.com/ececarpici) |
-| | Berfin Özdemir | [@berfinozdemir](https://github.com/berfinozdemir) |
-| **ISE Students** | Damla Tatlısu | [@damlatatlisu](https://github.com/damlatatlisu) |
-| | Gamze Binici | [@gamzebinici](https://github.com/gamzebinici) |
-
-**Supervisor**: Yeditepe University Computer Science & Engineering Department
-
----
-
 ## 📞 Support
 
 For questions, issues, or feature requests:
@@ -645,6 +628,7 @@ For questions, issues, or feature requests:
 [Report Bug](https://github.com/yusufkenanakgun/YURead/issues) · [Request Feature](https://github.com/yusufkenanakgun/YURead/issues)
 
 </div>
+
 
 
 
